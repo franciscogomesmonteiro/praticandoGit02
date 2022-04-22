@@ -1,2 +1,5 @@
 teria que fazer alguma escrita por aqui
 para depois dar um  git add.
+
+fiz algumas quebra de linha para 
+traticar alguns comando no git.
